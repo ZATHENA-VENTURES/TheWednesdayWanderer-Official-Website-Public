@@ -1,63 +1,55 @@
-# Welcome to The Wednesday Wanderer Project
+<h1 align="center">🎙️ The Wednesday Wanderer</h1>
+<p align="center">
+  <strong>The official website for The Wednesday Wanderer — a podcast hosted by Michael "ZADAN" Isbell, originally under MBIM and now a Zathena Ventures Productions show.</strong>
+</p>
+<p align="center">
+  <a href="https://tww.zathenaventures.xyz" target="_blank" rel="noopener noreferrer"><strong>🌐 Visit The Website</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://tww.zathenaventures.xyz/episodes" target="_blank" rel="noopener noreferrer"><strong>🎧 Episodes</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://tww.zathenaventures.xyz/blog" target="_blank" rel="noopener noreferrer"><strong>📝 Blog</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://tww.zathenaventures.xyz/guest-application" target="_blank" rel="noopener noreferrer"><strong>🎤 Be A Guest</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://tww.zathenaventures.xyz/contact" target="_blank" rel="noopener noreferrer"><strong>📞 Contact</strong></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-## Project Info
-
-This is the official website for The Wednesday Wanderer podcast, featuring authentic, real-time conversations with people from all walks of life.
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-This project is configured for automated deployment to HostGator FTP via GitHub Actions.
-Refer to `public/README_HOSTGATOR_SETUP.md` for detailed instructions on setting up GitHub Secrets for deployment.
 ---
-ℹ️ This is the **public version** of the private repository [ZATHENA-VENTURES/TheWednesdayWanderer-Official-Website](https://github.com/ZATHENA-VENTURES/TheWednesdayWanderer-Official-Website).
-It contains the official README, project description, and homepage link but omits sensitive deployment details.
+
+## ✨ Key Features
+
+The official website is the complete home for The Wednesday Wanderer podcast, featuring:
+
+*   **🎧 Episode Library**: A full, sortable catalog of every episode with dedicated episode detail pages.
+*   **▶️ Native In-App Player**: A built-in audio player so listeners can stream episodes directly on the site.
+*   **📝 Blog**: Articles and show notes with individual blog post pages.
+*   **🎤 Guest Applications**: An application flow for prospective guests to pitch themselves for the show.
+*   **👥 Audience Interaction & Community**: Member benefits, an activity feed, and the ability to favorite episodes and engage with the show.
+*   **👤 About The Show**: The story behind The Wednesday Wanderer and its host, Michael "ZADAN" Isbell.
+*   **📬 Contact**: A direct line to the show for listeners and collaborators.
+*   **📱 Fully Responsive**: A clean, mobile-first design built for listening on the go.
+
+---
+
+## 📜 License
+
+© 2026 The Wednesday Wanderer / Zathena Ventures Productions. All rights reserved.
+
+---
+
+## 📞 Credits & Contact
+
+*   **Website:** [tww.zathenaventures.xyz](https://tww.zathenaventures.xyz)
+*   **Host:** Michael "ZADAN" Isbell
+*   **A production of:** [Zathena Ventures](https://zathenaventures.xyz)
+
+---
+
+> ℹ️ This is the **public showcase version** of this project's repository. It presents the project, its features, and live site, and omits source code and deployment details.
